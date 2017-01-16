@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String odd= name;
         int age =2000,old =20000;
+        String jjj= "dsadasd";
     }
 }
